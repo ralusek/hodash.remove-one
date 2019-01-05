@@ -1,10 +1,10 @@
 {
-  "name": "hodash.removeOne",
+  "name": "hodash.remove-one",
   "version": "1.0.0",
   "description": "Remove first matching element from array.",
-  "repository" : {
+  "repository": {
     "type": "git",
-    "url": "https://github.com/ralusek/hodash.removeOne"
+    "url": "https://github.com/ralusek/hodash.remove-one"
   },
   "main": "lib/index.js",
   "scripts": {
